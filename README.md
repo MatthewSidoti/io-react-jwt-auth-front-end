@@ -8,3 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # HOOT-App-API-Express--React-Front-End
 # io-react-jwt-auth-front-end
+# io-react-jwt-auth-front-end
