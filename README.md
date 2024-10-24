@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # HOOT-App-API-Express--React-Front-End
 # io-react-jwt-auth-front-end
 # io-react-jwt-auth-front-end
+# io-react-jwt-auth-front-end
